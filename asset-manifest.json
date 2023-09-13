@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toshfolio/static/css/main.bf9a66fa.css",
+    "main.js": "/toshfolio/static/js/main.b994c709.js",
+    "static/media/iphone.png": "/toshfolio/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/toshfolio/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/toshfolio/index.html",
+    "main.bf9a66fa.css.map": "/toshfolio/static/css/main.bf9a66fa.css.map",
+    "main.b994c709.js.map": "/toshfolio/static/js/main.b994c709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9a66fa.css",
+    "static/js/main.b994c709.js"
+  ]
+}
