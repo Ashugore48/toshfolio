@@ -4,6 +4,7 @@ import FacebookIcon from "@mui/icons-material/Facebook";
 import EmailIcon from "@mui/icons-material/Email";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import InstagramIcon from "@mui/icons-material/Instagram";
+import GitHubIcon from '@mui/icons-material/GitHub';
 
 function Footer() {
   function topFunction() {
@@ -16,6 +17,9 @@ function Footer() {
         ToshFolio<span>.</span>
       </h2>
       <div className="social-links">
+      <a href="https://github.com/Ashugore48" target="_blank">
+          <GitHubIcon className="social-link" />
+        </a>
         <a href="https://www.facebook.com/ashutosh.gore.98/" target="_blank">
           <FacebookIcon className="social-link" />
         </a>
