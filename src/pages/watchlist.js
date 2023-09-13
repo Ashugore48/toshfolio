@@ -26,7 +26,7 @@ function WatchlistPage() {
 
   return (
     <div>
-      {loading || !coins ? (
+      {loading && !coins ? (
         <Loader />
       ) : (
         <div style={{ minHeight: "90vh" }}>
