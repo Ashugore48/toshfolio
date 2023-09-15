@@ -4,7 +4,7 @@ import { API_URL } from "../constants";
 export const getCoinPrices = (id, days, priceType) => {
   const prices = axios
     .get(
-      `${API_URL}/${id}/market_chart?vs_currency=usd&days=${days}&interval=daily`
+      `${API_URL}/${id}/market_chart?vs_currency=inr&days=${days}&interval=daily`
     )
     .then((response) => {
       if (priceType == "market_caps") {
