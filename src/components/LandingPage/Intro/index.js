@@ -47,7 +47,7 @@ function LandingPageComponent() {
           <RWebShare
             data={{
               text: "Blast Off into the World of Cryptos!",
-              url: "https://toshfolio.netlify.app/",
+              url: "https://tosh-folio.netlify.app/",
               title: "ToshFolio.",
             }}
             onClick={() => console.log("shared successfully!")}
